@@ -27,8 +27,8 @@ Este projeto foi construído utilizando tecnologias modernas de desenvolvimento 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/LuisBuildMods.git](https://github.com/SEU-USUARIO/LuisBuildMods.git)
-   cd LuisBuildMods
+   git clone [https://github.com/SEU-USUARIO/LuisBuildSite.git](https://github.com/SEU-USUARIO/LuisBuildSite.git)
+   cd LuisBuildSite
 
  * Instale as dependências:
    npm install
