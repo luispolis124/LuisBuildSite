@@ -29,3 +29,17 @@ Este projeto foi construído utilizando tecnologias modernas de desenvolvimento 
    ```bash
    git clone [https://github.com/SEU-USUARIO/LuisBuildMods.git](https://github.com/SEU-USUARIO/LuisBuildMods.git)
    cd LuisBuildMods
+
+ * Instale as dependências:
+   npm install
+
+ * Configure as Variáveis de Ambiente:
+   Crie um arquivo .env na raiz do projeto seguindo o modelo do .env.example e adicione as suas chaves do Supabase:
+   VITE_SUPABASE_URL=sua_url_do_supabase
+VITE_SUPABASE_ANON_KEY=sua_chave_anon_do_supabase
+
+ * Inicie o servidor de desenvolvimento:
+   npm run dev
+
+📄 Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir, abrir issues ou sugerir melhorias!
