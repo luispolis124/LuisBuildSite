@@ -1,4 +1,4 @@
-# 🌍 LuisBuildMods
+# 🌍 LuisBuildSite
 
 Plataforma da comunidade desenvolvida para o compartilhamento de mods, texturas, mapas e conteúdos personalizados para jogos. 
 
